@@ -1,3 +1,5 @@
+/* @flow */
+
 export type Event = {
   type: string,
   timestamp: number,
